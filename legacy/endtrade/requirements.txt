@@ -1,0 +1,9 @@
+boto3
+numpy
+pandas
+scikit-learn 
+scipy
+tensorflow
+bayesian-optimization
+ta
+pytz

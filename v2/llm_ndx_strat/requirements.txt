@@ -1,0 +1,8 @@
+numpy
+pandas
+ta
+requests
+pytz
+boto3
+tqdm
+openai

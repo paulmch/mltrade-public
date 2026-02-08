@@ -1,0 +1,28 @@
+# Model artifacts
+*.h5
+*.h5f
+*.pkl
+*.npz
+*.pt
+*.pth
+*.csv
+*.tar.gz
+bestmodel_*
+checkpoint
+best_predictions.txt
+best_val_loss.txt
+x_test_hash.txt
+train_test_data*
+performance_data*
+performance_by_atr*
+params.json
+model_structure*.json
+
+# Python
+__pycache__/
+*.pyc
+.env
+
+# IDE
+.vscode/
+.idea/

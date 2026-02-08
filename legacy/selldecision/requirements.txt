@@ -1,0 +1,10 @@
+boto3
+numpy
+pandas
+requests
+scikit-learn 
+scipy
+tensorflow
+bayesian-optimization
+ta
+pytz

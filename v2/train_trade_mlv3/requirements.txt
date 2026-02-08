@@ -1,0 +1,11 @@
+boto3
+numpy
+pandas
+scikit-learn 
+scipy
+tensorflow
+memory_profiler
+bayesian-optimization
+ta
+pytz
+ncps
